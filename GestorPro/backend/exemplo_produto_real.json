@@ -1,0 +1,12 @@
+{
+  "codigo_barras": "7891234567890",
+  "nome": "Arroz Integral 5kg",
+  "quantidade": 50,
+  "fk_fornecedor_cnpj": "12345678901234",
+  "lote": "LOTE2024001",
+  "preco_venda": 25.90,
+  "preco_custo": 18.50,
+  "categoria": "Alimentos",
+  "peso": 5.0,
+  "descricao": "Arroz integral de alta qualidade, embalagem de 5kg"
+} 
